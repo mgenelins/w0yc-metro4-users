@@ -12,5 +12,5 @@ WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
 
 `````
 People I have received email from, but not on the air permission granted yet:
-
+WRNM345 - Gary Uebel - 715-425-7669
 `````
