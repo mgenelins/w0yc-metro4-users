@@ -14,4 +14,5 @@ WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
 People I have received email from, but not on the air permission granted yet:
 WRNM345 - Gary Uebel - 715-425-7669
 WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4
+WRPE706 - Jon Hess (N2FGB) - 862-812-1167‬ - Feb 1, 2022
 `````
