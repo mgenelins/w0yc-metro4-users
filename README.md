@@ -17,4 +17,5 @@ WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4
 WRPE706 - Jon Hess (N2FGB) - 862-812-1167‬ - Feb 1, 2022
 WRNA985 - Kevin Vick (KFØGIC) - 952-380-7567 - Feb 15, 2022
 WROD714 - Eric Sund - 651-329-8421 - Feb 15, 2022
+WROS954 - Carl VAN DERVOORT - 763-242-2217 - Feb 18, 2022
 `````
