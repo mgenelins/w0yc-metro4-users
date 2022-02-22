@@ -20,4 +20,5 @@ WROD714 - Eric Sund - 651-329-8421 - Feb 15, 2022
 WROS954 - Carl VAN DERVOORT - 763-242-2217 - Feb 18, 2022
 WROA419 - Kloos, Carson M - 612-750-7300 - Feb 19, 2022
 WRAJ462 - Adams, Rob (KN4VUW) - 360-561-4482 - Feb 20, 2022
+WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022
 `````
