@@ -8,6 +8,7 @@ WRMQ310 - David - St. Paul Hamline-Midway visiting - 5/29/2021
 WRMC877 - Matt - Wyoming Area, works daily in New Brighton - 6/4/2021
 WRNC614 - Ian - St. Louis Park (KC0ITQ) - 7/16/2021
 WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
+WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022 - Granted on air 2/23/2022
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -20,5 +21,4 @@ WROD714 - Eric Sund - 651-329-8421 - Feb 15, 2022
 WROS954 - Carl VAN DERVOORT - 763-242-2217 - Feb 18, 2022
 WROA419 - Kloos, Carson M - 612-750-7300 - Feb 19, 2022
 WRAJ462 - Adams, Rob (KN4VUW) - 360-561-4482 - Feb 20, 2022
-WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022
 `````
