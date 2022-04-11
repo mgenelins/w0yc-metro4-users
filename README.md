@@ -23,4 +23,5 @@ WROA419 - Kloos, Carson M - 612-750-7300 - Feb 19, 2022
 WRAJ462 - Adams, Rob (KN4VUW) - 360-561-4482 - Feb 20, 2022
 WQXE329 - Keezer, Chris W - 715-497-2691 - April 6, 2022
 WRKT588 - Schroeder Jr., Roy E - 630-550-0250 - April 7, 2022
+WRPX808 - Nickelson, Kevin - 651-332-1123 - April 11, 2022
 `````
