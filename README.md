@@ -28,4 +28,5 @@ WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022
 WRFH717 - Locke, Pete - 651-428-6991 - April 25, 2022
 WRPY764 - Haas, Steven P - 651-247-5012 - April 25, 2022
 WRQC672 - Ulrich 423, Steven U (Summerfish22) - 612-423-3129 - April 25, 2022
+WRQJ307 - Kratochvil, Ryan - Rkratochvil@gmail.com - 612-965-2441 - May 3, 2022
 `````
