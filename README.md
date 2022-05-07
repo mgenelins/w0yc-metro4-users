@@ -9,6 +9,7 @@ WRMC877 - Matt - Wyoming Area, works daily in New Brighton - 6/4/2021
 WRNC614 - Ian - St. Louis Park (KC0ITQ) - 7/16/2021
 WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
 WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022 - Granted on air 2/23/2022
+WRQH864 - Kane, Kyle C (KF0GVR - St. Paul's Midway Neighborhood - Granted on the air (found on air) 5/7/2022
 `````
 
 People I have received email from, but not on the air permission granted yet:
