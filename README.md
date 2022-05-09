@@ -30,4 +30,5 @@ WRFH717 - Locke, Pete - 651-428-6991 - April 25, 2022
 WRPY764 - Haas, Steven P - 651-247-5012 - April 25, 2022
 WRQC672 - Ulrich 423, Steven U (Summerfish22) - 612-423-3129 - April 25, 2022
 WRQJ307 - Kratochvil, Ryan - Rkratochvil@gmail.com - 612-965-2441 - May 3, 2022
+WQZI953 - John (cntrlr) - cntrlr99@gmail.com - 612-803-3639 - May 9, 2022
 `````
