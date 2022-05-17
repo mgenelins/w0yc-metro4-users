@@ -10,6 +10,7 @@ WRNC614 - Ian - St. Louis Park (KC0ITQ) - 7/16/2021
 WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
 WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022 - Granted on air 2/23/2022
 WRQH864 - Kane, Kyle C (KF0GVR - St. Paul's Midway Neighborhood - Granted on the air (found on air) 5/7/2022
+WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022 - Granted on the air 5/17/2022
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -25,7 +26,6 @@ WRAJ462 - Adams, Rob (KN4VUW) - 360-561-4482 - Feb 20, 2022
 WQXE329 - Keezer, Chris W - 715-497-2691 - April 6, 2022
 WRKT588 - Schroeder Jr., Roy E - 630-550-0250 - April 7, 2022
 WRPX808 - Nickelson, Kevin (W0XA) - 651-332-1123 - April 11, 2022
-WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022
 WRFH717 - Locke, Pete - 651-428-6991 - April 25, 2022
 WRPY764 - Haas, Steven P - 651-247-5012 - April 25, 2022
 WRQC672 - Ulrich 423, Steven U (Summerfish22) - 612-423-3129 - April 25, 2022
