@@ -34,4 +34,5 @@ WQZI953 - John (cntrlr) - cntrlr99@gmail.com - 612-803-3639 - May 9, 2022
 WQNA735 - Mills, Stephen T (stmills) - mill1819@gmail.com - 612-207-3082 - May 13, 2022
 WRJH201 - McCreery, Kyle M (KMCCREERY) - kmc1941@hotmail.com - 563-340-3601 - May 16, 2022
 WRQZ375 - Porth, Mark - mporth@gmail.com - 612-859-1738 - May 31 2022
+WRQK603 - Schwindt, Robert - audionut612@gmail.com - 952-856-7441 - May 31, 2022
 `````
