@@ -11,6 +11,7 @@ WRDV918 - N0NFB - Kevin L Anderson - 952-457-7728 - 8/3/2021
 WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022 - Granted on air 2/23/2022
 WRQH864 - Kane, Kyle C (KF0GVR - St. Paul's Midway Neighborhood - Granted on the air (found on air) 5/7/2022
 WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022 - Granted on the air 5/17/2022
+WRTB501 - Gilpin, Chris J - chrisjgilpin@gmail.com - Granted on the air June 2, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
