@@ -38,4 +38,6 @@ WRQZ375 - Porth, Mark - mporth@gmail.com - 612-859-1738 - May 31 2022
 WRQK603 - Schwindt, Robert - audionut612@gmail.com - 952-856-7441 - May 31, 2022
 WRTB492 - Peters, Kevin J - seive7@gmail.com - 651-338-4260 - June 2, 2022
 WREE342 - Mueller, Patrick - patrick@pmueller.org - 408-455-7409 - July 1, 2022
+WRTM705 - DeSoysa, Shanaka - shanakadesoysa+myg@gmail.com - 612-234-5128 - July 8, 2022
+WQXY662 - Kruger, Curtis D - curtis.d.kruger@gmail.com - 612-562-2200 - July 9, 2022
 `````
