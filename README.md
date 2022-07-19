@@ -41,4 +41,5 @@ WREE342 - Mueller, Patrick - patrick@pmueller.org - 408-455-7409 - July 1, 2022
 WRTM705 - DeSoysa, Shanaka - shanakadesoysa+myg@gmail.com - 612-234-5128 - July 8, 2022
 WQXY662 - Kruger, Curtis D - curtis.d.kruger@gmail.com - 612-562-2200 - July 9, 2022
 WRTP559 - Schreiber 500, Matt - schremat000@gmail.com - 651-335-4257 - July 18, 2022  
+WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022
 `````
