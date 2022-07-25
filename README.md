@@ -45,4 +45,5 @@ WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2
 WRTC901 - Fordahl, Paul D - clod.gurgle0w@icloud.com - 952-322-0236 - July 19, 2022
 WRTS356 - Velasco, Andrew - Andrewlvelasco@gmail.com - 763-267-5377 - July 21, 2022
 WRTR899 - Ward, Richard D - rickdward@hotmail.com - 612-615-5079 - July 25, 2022
+WRTK366 - burks 985, richard T - captainburks@gmail.com - 619-985-6005 - July 25, 2022
 `````
