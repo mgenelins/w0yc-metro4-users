@@ -12,6 +12,7 @@ WROL409 - Nickila, Christopher - 952-963-6085 - Feb 22, 2022 - Granted on air 2/
 WRQH864 - Kane, Kyle C (KF0GVR - St. Paul's Midway Neighborhood - Granted on the air (found on air) 5/7/2022
 WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022 - Granted on the air 5/17/2022
 WRTB501 - Gilpin, Chris J - 651-274-8163 - chrisjgilpin@gmail.com - Granted on the air June 2, 2022.
+WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022 - July 28, 2022
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -41,7 +42,6 @@ WREE342 - Mueller, Patrick - patrick@pmueller.org - 408-455-7409 - July 1, 2022
 WRTM705 - DeSoysa, Shanaka - shanakadesoysa+myg@gmail.com - 612-234-5128 - July 8, 2022
 WQXY662 - Kruger, Curtis D - curtis.d.kruger@gmail.com - 612-562-2200 - July 9, 2022
 WRTP559 - Schreiber 500, Matt - schremat000@gmail.com - 651-335-4257 - July 18, 2022  
-WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022
 WRTC901 - Fordahl, Paul D - clod.gurgle0w@icloud.com - 952-322-0236 - July 19, 2022
 WRTS356 - Velasco, Andrew - Andrewlvelasco@gmail.com - 763-267-5377 - July 21, 2022
 WRTR899 - Ward, Richard D - rickdward@hotmail.com - 612-615-5079 - July 25, 2022
