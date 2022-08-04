@@ -48,4 +48,5 @@ WRTR899 - Ward, Richard D - rickdward@hotmail.com - 612-615-5079 - July 25, 2022
 WRTK366 - burks 985, richard T - captainburks@gmail.com - 619-985-6005 - July 25, 2022
 WRTT675 - Ohumukini III, VIctor K - ohumukini@gmail.com - 928-699-5908 - July 27, 2022
 WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 2, 2022
+WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022
 `````
