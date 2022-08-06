@@ -49,4 +49,5 @@ WRTK366 - burks 985, richard T - captainburks@gmail.com - 619-985-6005 - July 25
 WRTT675 - Ohumukini III, VIctor K - ohumukini@gmail.com - 928-699-5908 - July 27, 2022
 WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 2, 2022
 WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022
+WRHT390 - Davis, George J - g.jeffdavis@gmail.com - 612-251-4396 - August 6, 2022
 `````
