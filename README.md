@@ -13,6 +13,7 @@ WRQH864 - Kane, Kyle C (KF0GVR - St. Paul's Midway Neighborhood - Granted on the
 WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022 - Granted on the air 5/17/2022
 WRTB501 - Gilpin, Chris J - 651-274-8163 - chrisjgilpin@gmail.com - Granted on the air June 2, 2022.
 WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022 - July 28, 2022
+WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022 - August 15, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -48,6 +49,5 @@ WRTR899 - Ward, Richard D - rickdward@hotmail.com - 612-615-5079 - July 25, 2022
 WRTK366 - burks 985, richard T - captainburks@gmail.com - 619-985-6005 - July 25, 2022
 WRTT675 - Ohumukini III, VIctor K - ohumukini@gmail.com - 928-699-5908 - July 27, 2022
 WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 2, 2022
-WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022
 WRHT390 - Davis, George J - g.jeffdavis@gmail.com - 612-251-4396 - August 6, 2022
 `````
