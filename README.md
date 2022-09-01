@@ -53,4 +53,5 @@ WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 2, 2
 WRHT390 - Davis, George J - g.jeffdavis@gmail.com - 612-251-4396 - August 6, 20223
 WRUG831 - Anderson, Jason - jdanderson@techsharks.com - 952-693-6391 - August 31, 2022
 WREB299 - yattow, philip j - philstaxi130@gmail.com - 763-381-7065 - August 31, 2022
+WREP772 - Capasso, Cristiano - c_capasso@yahoo.com - 215-532-7883 - August 31, 2022
 `````
