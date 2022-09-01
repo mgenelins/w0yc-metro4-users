@@ -14,6 +14,7 @@ WRQD318 - Kenny, Ryan P (Goober7630) - 651-484-7232 - April 25, 2022 - Granted o
 WRTB501 - Gilpin, Chris J - 651-274-8163 - chrisjgilpin@gmail.com - Granted on the air June 2, 2022.
 WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022 - July 28, 2022
 WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022 - August 15, 2022.
+WRUG532 - Brever, Brandon - brandonbrever@gmail.com - August 31, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
