@@ -56,4 +56,5 @@ WREP772 - Capasso, Cristiano - c_capasso@yahoo.com - 215-532-7883 - August 31, 2
 WRQG927 - Bouillon, Martin - marty@cyberbouillon.net - 651-768-8592 - August 31, 2022
 WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 31, 2022
 WRUG532 - Brever, Brandon - brandonbrever@gmail.com - 320-760-4707 - August 31, 2022.
+WRNA869 - (Ztaubman) Taubman, Zachary A - zach.taubman@gmail.com - 507-581-4720 - Sept 8, 2022
 `````
