@@ -57,4 +57,5 @@ WRQG927 - Bouillon, Martin - marty@cyberbouillon.net - 651-768-8592 - August 31,
 WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 31, 2022
 WRUG532 - Brever, Brandon - brandonbrever@gmail.com - 320-760-4707 - August 31, 2022.
 WRNA869 - (Ztaubman) Taubman, Zachary A - zach.taubman@gmail.com - 507-581-4720 - Sept 8, 2022
+WRUK360 - Larson, Daniel j - hickrod82@gmail.com - 763-691-5519 - Sept 23, 2022
 `````
