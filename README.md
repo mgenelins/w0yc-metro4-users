@@ -15,6 +15,7 @@ WRTB501 - Gilpin, Chris J - 651-274-8163 - chrisjgilpin@gmail.com - Granted on t
 WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2022 - July 28, 2022
 WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022 - August 15, 2022.
 WRUG831 - Anderson, Jason - jdanderson@techsharks.com - 952-693-6391 - August 31, 2022
+WRUN640 - Wickham, Jonathan - jonrwickham@gmail.com - 612-703-0148 - September 28, 2022, September 29, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -58,5 +59,4 @@ WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 31, 
 WRUG532 - Brever, Brandon - brandonbrever@gmail.com - 320-760-4707 - August 31, 2022.
 WRNA869 - (Ztaubman) Taubman, Zachary A - zach.taubman@gmail.com - 507-581-4720 - Sept 8, 2022
 WRUK360 - Larson, Daniel j - hickrod82@gmail.com - 763-691-5519 - Sept 23, 2022
-WRUN640 - Wickham, Jonathan - jonrwickham@gmail.com - 612-703-0148 - September 28, 2022
 `````
