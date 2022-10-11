@@ -59,4 +59,7 @@ WREN510 - Froehlig 923, Glen A - glenaf25@gmail.com - 952-923-6430 - August 31, 
 WRUG532 - Brever, Brandon - brandonbrever@gmail.com - 320-760-4707 - August 31, 2022.
 WRNA869 - (Ztaubman) Taubman, Zachary A - zach.taubman@gmail.com - 507-581-4720 - Sept 8, 2022
 WRUK360 - Larson, Daniel j - hickrod82@gmail.com - 763-691-5519 - Sept 23, 2022
+WREN928 - Asp, James - n0ais@yahoo.com - 651-239-7276 - Oct 10, 2022
+WRPF246 - toastyduck - toastyduck@gmail.com - 952-250-2020 - Oct 10, 2022
+WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022
 `````
