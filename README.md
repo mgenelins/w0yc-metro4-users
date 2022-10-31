@@ -16,6 +16,7 @@ WROR669 - Ganske, Eric D - pusher_rapt_0b@icloud.com - 952-300-5442 - July 18, 2
 WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022 - August 15, 2022.
 WRUG831 - Anderson, Jason - jdanderson@techsharks.com - 952-693-6391 - August 31, 2022
 WRUN640 - Wickham, Jonathan - jonrwickham@gmail.com - 612-703-0148 - September 28, 2022, September 29, 2022.
+WRUH657 - Jason Ballesteros - ballesteros.jasonh@gmail.com - (415) 877-0606‬ - Oct 30, 2022
 `````
 
 People I have received email from, but not on the air permission granted yet:
