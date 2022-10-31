@@ -65,4 +65,5 @@ WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022
 WRTS814 - LaViola 652, Matthew - mjlav10@gmail.com - 734-652-8800 - October 20, 2022
 WROD435 - Vettling, Eric D (KE0auz) - vettling@aol.com - 763-522-0948 - October 21, 2022
 WRNA985 - Vick, Kevin V (K0VIK) - kvick6@gmail.com - 952-380-7567 - Oct 24, 2022
+WRFT394 - Wolf, Christopher J - cwolf1991@protonmail.com - 262-914-4459 - Oct 31, 2022
 `````
