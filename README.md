@@ -68,4 +68,5 @@ WROD435 - Vettling, Eric D (KE0auz) - vettling@aol.com - 763-522-0948 - October 
 WRNA985 - Vick, Kevin V (K0VIK) - kvick6@gmail.com - 952-380-7567 - Oct 24, 2022
 WRFT394 - Wolf, Christopher J - cwolf1991@protonmail.com - 262-914-4459 - Oct 31, 2022
 WRQJ289 - Bunde 770, Daniel (N0ZCO) - n0zco@msn.com - 651-968-7967 - November 14, 2022
+WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022
 `````
