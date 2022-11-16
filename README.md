@@ -17,6 +17,7 @@ WRTK792 - Bruce Goracke - bgoracke@gmail.com - August 4, 2022 - August 15, 2022.
 WRUG831 - Anderson, Jason - jdanderson@techsharks.com - 952-693-6391 - August 31, 2022
 WRUN640 - Wickham, Jonathan - jonrwickham@gmail.com - 612-703-0148 - September 28, 2022, September 29, 2022.
 WRUH657 - Jason Ballesteros - ballesteros.jasonh@gmail.com - (415) 877-0606‬ - Oct 30, 2022
+WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022, November 16, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -68,5 +69,4 @@ WROD435 - Vettling, Eric D (KE0auz) - vettling@aol.com - 763-522-0948 - October 
 WRNA985 - Vick, Kevin V (K0VIK) - kvick6@gmail.com - 952-380-7567 - Oct 24, 2022
 WRFT394 - Wolf, Christopher J - cwolf1991@protonmail.com - 262-914-4459 - Oct 31, 2022
 WRQJ289 - Bunde 770, Daniel (N0ZCO) - n0zco@msn.com - 651-968-7967 - November 14, 2022
-WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022
 `````
