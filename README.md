@@ -19,6 +19,7 @@ WRUN640 - Wickham, Jonathan - jonrwickham@gmail.com - 612-703-0148 - September 2
 WRUH657 - Jason Ballesteros - ballesteros.jasonh@gmail.com - (415) 877-0606‬ - Oct 30, 2022
 WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022, November 16, 2022.
 WRVL206 - Bird, Jeff J - Jeff.bird@me.com - 720-289-1427 - Dec 14, 2022, Dec 17, 2022.
+WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21, 2022.
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -64,7 +65,6 @@ WRNA869 - (Ztaubman) Taubman, Zachary A - zach.taubman@gmail.com - 507-581-4720 
 WRUK360 - Larson, Daniel j - hickrod82@gmail.com - 763-691-5519 - Sept 23, 2022
 WREN928 - Asp, James - n0ais@yahoo.com - 651-239-7276 - Oct 10, 2022
 WRPF246 - toastyduck - toastyduck@gmail.com - 952-250-2020 - Oct 10, 2022
-WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022
 WRTS814 - LaViola 652, Matthew - mjlav10@gmail.com - 734-652-8800 - October 20, 2022
 WROD435 - Vettling, Eric D (KE0auz) - vettling@aol.com - 763-522-0948 - October 21, 2022
 WRNA985 - Vick, Kevin V (K0VIK) - kvick6@gmail.com - 952-380-7567 - Oct 24, 2022
