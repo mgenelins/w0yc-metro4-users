@@ -72,4 +72,5 @@ WRFT394 - Wolf, Christopher J - cwolf1991@protonmail.com - 262-914-4459 - Oct 31
 WRQJ289 - Bunde 770, Daniel (N0ZCO) - n0zco@msn.com - 651-968-7967 - November 14, 2022
 WRVM929 - Jensen, Brett D - brett.d.jensen@gmail.com - 612-423-0620 - Dec 14, 2022
 WRTZ459 - Bierbaum, Ralph - - - Dec 21, 2022 - Has TAC 6 PL tone programmed in, needs to reprogram for 141.3hz.
+WRVR406 - Paulson, Matthew P - 507-581-9424 - Dec 30, 2022
 `````
