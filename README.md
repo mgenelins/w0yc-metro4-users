@@ -74,4 +74,5 @@ WRVM929 - Jensen, Brett D - brett.d.jensen@gmail.com - 612-423-0620 - Dec 14, 20
 WRTZ459 - Bierbaum, Ralph - - - Dec 21, 2022 - Has TAC 6 PL tone programmed in, needs to reprogram for 141.3hz.
 WRVR406 - Paulson, Matthew P - 507-581-9424 - Dec 30, 2022
 WRVJ520 - Jutz, James R - 651-424-6109 - abercrombie8@icloud.com - Jan 6, 2023
+WROH847 - Hofer, Erick A - 763-370-4985 - daysting@me.com - Jan 15, 2023
 `````
