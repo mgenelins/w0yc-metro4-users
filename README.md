@@ -75,4 +75,5 @@ WRTZ459 - Bierbaum, Ralph - - - Dec 21, 2022 - Has TAC 6 PL tone programmed in, 
 WRVR406 - Paulson, Matthew P - 507-581-9424 - Dec 30, 2022
 WRVJ520 - Jutz, James R - 651-424-6109 - abercrombie8@icloud.com - Jan 6, 2023
 WROH847 - Hofer, Erick A - 763-370-4985 - daysting@me.com - Jan 15, 2023
+WROF538 - Hirsch, Robert E - 612-578-5847 - Rehirsch8@yahoo.com - Jan 10-15, 2023
 `````
