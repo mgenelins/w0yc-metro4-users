@@ -20,6 +20,8 @@ WRUH657 - Jason Ballesteros - ballesteros.jasonh@gmail.com - (415) 877-0606‬ -
 WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022, November 16, 2022.
 WRVL206 - Bird, Jeff J - Jeff.bird@me.com - 720-289-1427 - Dec 14, 2022, Dec 17, 2022.
 WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21, 2022.
+WRWC555 - Dan - On the air - Feb 20, 2023
+WRWF232 - Austing - On the air - Feb 20, 2023
 `````
 
 People I have received email from, but not on the air permission granted yet:
