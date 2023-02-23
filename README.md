@@ -20,7 +20,7 @@ WRUH657 - Jason Ballesteros - ballesteros.jasonh@gmail.com - (415) 877-0606‬ -
 WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - November 14, 2022, November 16, 2022.
 WRVL206 - Bird, Jeff J - Jeff.bird@me.com - 720-289-1427 - Dec 14, 2022, Dec 17, 2022.
 WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21, 2022.
-WRWC555 - Dan - On the air - Feb 20, 2023
+WRWC555 - Swenson, Bronson M (Dan) - 612-441-0656 - burgertimecut@gmail.com - Feb 20, 2023
 WRWF232 - Austing - On the air - Feb 20, 2023
 `````
 
@@ -78,4 +78,8 @@ WRVR406 - Paulson, Matthew P - 507-581-9424 - Dec 30, 2022
 WRVJ520 - Jutz, James R - 651-424-6109 - abercrombie8@icloud.com - Jan 6, 2023
 WROH847 - Hofer, Erick A - 763-370-4985 - daysting@me.com - Jan 15, 2023
 WROF538 - Hirsch, Robert E - 612-578-5847 - Rehirsch8@yahoo.com - Jan 10-15, 2023
+WRWF339 - Kelly, Shaun P - 612-605-5611 - wrwf339@impsec.net - Feb 19, 2023
+WRTS882 - Cramer, Joseph - 612-756-9637 - wrts882@gmail.com - Feb 11, 2023
+WRVZ289 - Ruzicka, Riley B - 320-510-5531 - riley_ruzicka@yahoo.com - Jan 31, 2023
+WRPY848 - Matchett, Robert C - 936-955-0823 - rmatchett94@gmail.com - Jan 27, 2023
 `````
