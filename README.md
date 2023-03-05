@@ -82,4 +82,9 @@ WRWF339 - Kelly, Shaun P - 612-605-5611 - wrwf339@impsec.net - Feb 19, 2023
 WRTS882 - Cramer, Joseph - 612-756-9637 - wrts882@gmail.com - Feb 11, 2023
 WRVZ289 - Ruzicka, Riley B - 320-510-5531 - riley_ruzicka@yahoo.com - Jan 31, 2023
 WRPY848 - Matchett, Robert C - 936-955-0823 - rmatchett94@gmail.com - Jan 27, 2023
+WRWJ219 - Super, Nicholas - 763-228-3279 - superdude811@gmail.com - March 4, 2023
+WRUK662 - Scott, Steven L - 651-604-0919 - pipemajor2@gmail.com - March 2, 2023
+WRTH757 - Senn, David G - 651-755-5983 - sennister@gmail.com - March 2, 2023
+WRWG964 - Milham, Christopher R - 847-436-2790 - Crm7290@gmail.com - March 1, 2023
+WRPU921 - Sroka 228, John A - 952-228-0308 - john.sroka@outlook.com - Feb 27, 2023
 `````
