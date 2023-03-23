@@ -87,4 +87,8 @@ WRUK662 - Scott, Steven L - 651-604-0919 - pipemajor2@gmail.com - March 2, 2023
 WRTH757 - Senn, David G - 651-755-5983 - sennister@gmail.com - March 2, 2023
 WRWG964 - Milham, Christopher R - 847-436-2790 - Crm7290@gmail.com - March 1, 2023
 WRPU921 - Sroka 228, John A - 952-228-0308 - john.sroka@outlook.com - Feb 27, 2023
+WRTL451 - Swanson, Gary - 612-240-8108 - garys5@q.com - March 7, 2023
+WRWM676 - Megas, Themistocles (Themis) - 612-702-6280 - tcm4760@gmail.com - March 13, 2023
+WRMD548 - Speltz, Raymond J - 651-353-5286 - Speltzraymond@gmail.com - March 19, 2023
+WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - March 22, 2023
 `````
