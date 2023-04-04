@@ -92,4 +92,6 @@ WRWM676 - Megas, Themistocles (Themis) - 612-702-6280 - tcm4760@gmail.com - Marc
 WRMD548 - Speltz, Raymond J - 651-353-5286 - Speltzraymond@gmail.com - March 19, 2023
 WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - March 22, 2023
 WRWS646 - Meyer, Fred - 952-381-4404 - fmeyer_lasers@yahoo.com - March 25, 2023
+WRWK540 - Jennings, Joshua J - 701-330-6261 - spcjennings@gmail.com - April 3, 2023
+WRWG353 - Decker, James L - 612-414-7109 - fditjim@juno.com - April 1, 2023
 `````
