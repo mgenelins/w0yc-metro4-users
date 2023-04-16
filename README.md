@@ -94,4 +94,5 @@ WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - March 22, 
 WRWS646 - Meyer, Fred - 952-381-4404 - fmeyer_lasers@yahoo.com - March 25, 2023
 WRWK540 - Jennings, Joshua J - 701-330-6261 - spcjennings@gmail.com - April 3, 2023
 WRWG353 - Decker, James L - 612-414-7109 - fditjim@juno.com - April 1, 2023
+WRAD961 - Kasel, Robert P - 507-581-2891 - rkasel63@gmail.com - April 15, 2023
 `````
