@@ -95,4 +95,7 @@ WRWS646 - Meyer, Fred - 952-381-4404 - fmeyer_lasers@yahoo.com - March 25, 2023
 WRWK540 - Jennings, Joshua J - 701-330-6261 - spcjennings@gmail.com - April 3, 2023
 WRWG353 - Decker, James L - 612-414-7109 - fditjim@juno.com - April 1, 2023
 WRAD961 - Kasel, Robert P - 507-581-2891 - rkasel63@gmail.com - April 15, 2023
+WROH801 - Lewis, Aaron D - 612-998-1570 - lewi0069@umn.edu - Apri 28, 2023.
+WROT444 - Buyense Jr, John S - 651-302-3020 - jbuyense@gmail.com - April 22, 2023
+WRWV622 - Johnson, Darius - 612-516-1929 - 1dariusjohnson1@gmail.com - April 17, 2023
 `````
