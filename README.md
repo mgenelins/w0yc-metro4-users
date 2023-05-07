@@ -21,13 +21,13 @@ WRVE689 - CHAMBERLIN, JEFFREY A - jeffreycham@gmail.com - 314-662-2951 - Novembe
 WRVL206 - Bird, Jeff J - Jeff.bird@me.com - 720-289-1427 - Dec 14, 2022, Dec 17, 2022.
 WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21, 2022.
 WRWC555 - Swenson, Bronson M (Dan) - 612-441-0656 - burgertimecut@gmail.com - Feb 20, 2023
-WRWF232 - Austing - On the air - Feb 20, 2023
+WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - Feb 20, 2023 - Last Heard: May 6, 2023
+WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4 - May 6, 2023
 `````
 
 People I have received email from, but not on the air permission granted yet:
 `````
 WRNM345 - Gary Uebel - 715-425-7669
-WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4
 WRPE706 - Jon Hess (N2FGB) - 862-812-1167‬ - Feb 1, 2022
 WRNA985 - Kevin Vick (KFØGIC) - 952-380-7567 - Feb 15, 2022
 WROD714 - Eric Sund - 651-329-8421 - Feb 15, 2022
@@ -90,7 +90,6 @@ WRPU921 - Sroka 228, John A - 952-228-0308 - john.sroka@outlook.com - Feb 27, 20
 WRTL451 - Swanson, Gary - 612-240-8108 - garys5@q.com - March 7, 2023
 WRWM676 - Megas, Themistocles (Themis) - 612-702-6280 - tcm4760@gmail.com - March 13, 2023
 WRMD548 - Speltz, Raymond J - 651-353-5286 - Speltzraymond@gmail.com - March 19, 2023
-WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - March 22, 2023
 WRWS646 - Meyer, Fred - 952-381-4404 - fmeyer_lasers@yahoo.com - March 25, 2023
 WRWK540 - Jennings, Joshua J - 701-330-6261 - spcjennings@gmail.com - April 3, 2023
 WRWG353 - Decker, James L - 612-414-7109 - fditjim@juno.com - April 1, 2023
