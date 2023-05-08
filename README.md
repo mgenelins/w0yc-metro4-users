@@ -97,4 +97,7 @@ WRAD961 - Kasel, Robert P - 507-581-2891 - rkasel63@gmail.com - April 15, 2023
 WROH801 - Lewis, Aaron D - Redacted - Redacted - Apri 28, 2023.
 WROT444 - Buyense Jr, John S - 651-302-3020 - jbuyense@gmail.com - April 22, 2023
 WRWV622 - Johnson, Darius - 612-516-1929 - 1dariusjohnson1@gmail.com - April 17, 2023
+WRXA550 - Frahm, Matthew J - 612-242-9499 - matthew_frahm@live.com - May 2, 2023
+WRPS951 - Francour, Anthony S - 507-508-5793 - tfrancour@charter.net - May 4, 2023
+WRWS553 - Capuzzi, Steven - 608-492-1701 - nateisblue@gmail.com - May 8, 2023
 `````
