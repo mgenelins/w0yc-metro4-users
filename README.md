@@ -23,6 +23,7 @@ WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21
 WRWC555 - Swenson, Bronson M (Dan) - 612-441-0656 - burgertimecut@gmail.com - Feb 20, 2023
 WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - Feb 20, 2023 - Last Heard: May 6, 2023
 WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4 - May 6, 2023
+WRXE615 - May 24, 2023
 `````
 
 People I have received email from, but not on the air permission granted yet:
