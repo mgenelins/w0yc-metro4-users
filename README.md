@@ -101,4 +101,9 @@ WRWV622 - Johnson, Darius - 612-516-1929 - 1dariusjohnson1@gmail.com - April 17,
 WRXA550 - Frahm, Matthew J - 612-242-9499 - matthew_frahm@live.com - May 2, 2023
 WRPS951 - Francour, Anthony S - 507-508-5793 - tfrancour@charter.net - May 4, 2023
 WRWS553 - Capuzzi, Steven - 608-492-1701 - nateisblue@gmail.com - May 8, 2023
+WRWM985 - Burrows, David - 612-865-2649 - dave@burrows.bz - May 16, 2023
+WRWM254 - Larson, Ashley - 651-380-1261 - travisbartlett08@gmail.com - May 18, 2023
+WRXE615 - Lardy, Alan - 612-248-7011 - alan.lardy@gmail.com - May 22, 2023
+WRXH351 - Klein, Jeremy - 612-669-3690 - jeremy.d.klein@gmail.com - May 25, 2023
+WRXK625 - Trent, Brandon P - 515-771-3001 - brtrent19@gmail.com - May 25, 2023
 `````
