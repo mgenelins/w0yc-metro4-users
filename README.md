@@ -23,7 +23,7 @@ WRUH615 - Love, LeRoy - togeika@gmail.com - 612-267-2010 - Oct 10, 2022 - Dec 21
 WRWC555 - Swenson, Bronson M (Dan) - 612-441-0656 - burgertimecut@gmail.com - Feb 20, 2023
 WRWF232 - Slogar, Austen L - 720-251-5272 - burtonsnow448@gmail.com - Feb 20, 2023 - Last Heard: May 6, 2023
 WRMF358 - Daniel Brookins - 952-221-6490 - Family Users:  4 - May 6, 2023
-WRXE615 - May 24, 2023
+WRXE615 - Lardy, Alan - 612-248-7011 - alan.lardy@gmail.com - May 22, 2023, May 24th, 2023.
 `````
 
 People I have received email from, but not on the air permission granted yet:
@@ -103,7 +103,6 @@ WRPS951 - Francour, Anthony S - 507-508-5793 - tfrancour@charter.net - May 4, 20
 WRWS553 - Capuzzi, Steven - 608-492-1701 - nateisblue@gmail.com - May 8, 2023
 WRWM985 - Burrows, David - 612-865-2649 - dave@burrows.bz - May 16, 2023
 WRWM254 - Larson, Ashley - 651-380-1261 - travisbartlett08@gmail.com - May 18, 2023
-WRXE615 - Lardy, Alan - 612-248-7011 - alan.lardy@gmail.com - May 22, 2023
 WRXH351 - Klein, Jeremy - 612-669-3690 - jeremy.d.klein@gmail.com - May 25, 2023
 WRXK625 - Trent, Brandon P - 515-771-3001 - brtrent19@gmail.com - May 25, 2023
 `````
