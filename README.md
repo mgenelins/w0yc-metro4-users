@@ -105,4 +105,6 @@ WRWM985 - Burrows, David - 612-865-2649 - dave@burrows.bz - May 16, 2023
 WRWM254 - Larson, Ashley - 651-380-1261 - travisbartlett08@gmail.com - May 18, 2023
 WRXH351 - Klein, Jeremy - 612-669-3690 - jeremy.d.klein@gmail.com - May 25, 2023
 WRXK625 - Trent, Brandon P - 515-771-3001 - brtrent19@gmail.com - May 25, 2023
+WRQS547 - Matt STEPANIAK -  - n0tnl2010@gmail.com - June 15, 2023
+WRXM209 - Higgins, Mark T - 651-335-7033 - mhiggins@usinternet.com - June 15, 2023
 `````
