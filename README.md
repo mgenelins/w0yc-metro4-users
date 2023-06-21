@@ -107,4 +107,7 @@ WRXH351 - Klein, Jeremy - 612-669-3690 - jeremy.d.klein@gmail.com - May 25, 2023
 WRXK625 - Trent, Brandon P - 515-771-3001 - brtrent19@gmail.com - May 25, 2023
 WRQS547 - Matt STEPANIAK -  - n0tnl2010@gmail.com - June 15, 2023
 WRXM209 - Higgins, Mark T - 651-335-7033 - mhiggins@usinternet.com - June 15, 2023
+WRFK348 - Kenney, Mark - 612-802-5472 - mygmrs@pinicon.net - June 21, 2023
+WRXQ205 - Herman, Joshua H - 715-579-4655 - Josh.h460@gmail.com - June 21, 2023
+WRFI559 - Mielke, Randolph E - 262-470-8221 - rm.53119@gmail.com - June 19, 2023
 `````
