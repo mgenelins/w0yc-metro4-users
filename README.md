@@ -111,4 +111,11 @@ WRXM209 - Higgins, Mark T - 651-335-7033 - mhiggins@usinternet.com - June 15, 20
 WRFK348 - Kenney, Mark - 612-802-5472 - mygmrs@pinicon.net - June 21, 2023
 WRXQ205 - Herman, Joshua H - 715-579-4655 - Josh.h460@gmail.com - June 21, 2023
 WRFI559 - Mielke, Randolph E - 262-470-8221 - rm.53119@gmail.com - June 19, 2023
+WRXT651 - Elmes, Jason J - 612-968-1427 - jason.elmes@gmail.com - July 4, 2023
+WRVR530 - BRIEDEN, FRANCIS X - 570-498-7003 - fbieden@netscape.net - July 7, 2023
+WRPP406 - Crist, Eric F - 218-244-8888 - ecrist@secure-computing.net - July 9, 2023
+WRXW543 - Lohan, James M - 612-730-6927 - jimmylohan@gmail.com - July 11, 2023
+WRXX842 - Harrington, Todd - 651-276-6725 - harringtonta1@hotmail.com - July 16, 2023
+WRYB883 - delcourt, adam c - 612-807-5843 - adelcourt1990@gmail.com - July 27, 2023
+WRYC346 - Bell, Rodney - 651-343-7558 - rodbell55@gmail.com - July 30, 2023
 `````
