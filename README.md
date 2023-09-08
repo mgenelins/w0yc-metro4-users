@@ -118,4 +118,8 @@ WRXW543 - Lohan, James M - 612-730-6927 - jimmylohan@gmail.com - July 11, 2023
 WRXX842 - Harrington, Todd - 651-276-6725 - harringtonta1@hotmail.com - July 16, 2023
 WRYB883 - delcourt, adam c - 612-807-5843 - adelcourt1990@gmail.com - July 27, 2023
 WRYC346 - Bell, Rodney - 651-343-7558 - rodbell55@gmail.com - July 30, 2023
+WRDF775 - Ramirez, Carlos J - 612-961-6456 - cjramirezla64@gmail.com - August 14, 2023
+WRVN702 - Howe, Leah S - 651-356-3858 - Whowe8402@gmail.com - August 22, 2023
+WRTG839 - Wortman, Brandon - 763-477-8962 - chevybandit2001@gmail.com - August 24, 2023
+WRYM553 - Lynch, Todd - 952-217-2347 - racermd@gmail.com - September 1, 2023
 `````
