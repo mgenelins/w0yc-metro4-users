@@ -122,4 +122,7 @@ WRDF775 - Ramirez, Carlos J - 612-961-6456 - cjramirezla64@gmail.com - August 14
 WRVN702 - Howe, Leah S - 651-356-3858 - Whowe8402@gmail.com - August 22, 2023
 WRTG839 - Wortman, Brandon - 763-477-8962 - chevybandit2001@gmail.com - August 24, 2023
 WRYM553 - Lynch, Todd - 952-217-2347 - racermd@gmail.com - September 1, 2023
+WRYL493 - Jakkola, Jonathan - 651-815-9535 - jjakkola112@gmail.com - September 16, 2023
+WRYU462 - BERGSTROM, WESLEY F - 612-839-4706 - wesley2099@yahoo.com - September 23, 2023
+WRYU474 - VERDOORN, SAMUEL - 952-607-5120 - sam@verdoorn.com - September 23, 2023
 `````
