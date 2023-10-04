@@ -125,4 +125,5 @@ WRYM553 - Lynch, Todd - 952-217-2347 - racermd@gmail.com - September 1, 2023
 WRYL493 - Jakkola, Jonathan - 651-815-9535 - jjakkola112@gmail.com - September 16, 2023
 WRYU462 - BERGSTROM, WESLEY F - 612-839-4706 - wesley2099@yahoo.com - September 23, 2023
 WRYU474 - VERDOORN, SAMUEL - 952-607-5120 - sam@verdoorn.com - September 23, 2023
+WRYS974 - RILEY, JUSTEN T - 612-207-6538 - essayonsdrones@gmail.com - September 30, 2023
 `````
