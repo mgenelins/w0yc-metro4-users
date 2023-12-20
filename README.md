@@ -128,4 +128,7 @@ WRYU474 - VERDOORN, SAMUEL - 952-607-5120 - sam@verdoorn.com - September 23, 202
 WRYS974 - RILEY, JUSTEN T - 612-207-6538 - essayonsdrones@gmail.com - September 30, 2023
 WRYY808 - LONG, TIMOTHY J - 402-669-8827 - tlong243@gmail.com - October 5, 2023
 WRZE805 - Letch, Curtis J - 651-433-2076 - letchcj@gmail.com - November 1, 2023
+WRZI798 - STEVEN BARTHOLOMEW SCHNECK - 507-382-6523 - steven.jb.schneck@gmail.com - November 8, 2023
+WRWV622 - JOHNSON, DARIUS - 612-516-1929 - 1dariusjohnson1@gmail.com - November 27, 2023
+WRZK462 - NEW, TODD S - 612-305-8633 - new-todd.uniformed407@slmails.com - December 17, 2023
 `````
