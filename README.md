@@ -131,4 +131,12 @@ WRZE805 - Letch, Curtis J - 651-433-2076 - letchcj@gmail.com - November 1, 2023
 WRZI798 - STEVEN BARTHOLOMEW SCHNECK - 507-382-6523 - steven.jb.schneck@gmail.com - November 8, 2023
 WRWV622 - JOHNSON, DARIUS - 612-516-1929 - 1dariusjohnson1@gmail.com - November 27, 2023
 WRZK462 - NEW, TODD S - 612-305-8633 - new-todd.uniformed407@slmails.com - December 17, 2023
+WRZZ402 - JOHNSON, JOSH - 952-992-9767 - josh.johnson@jsdkz.com - December 29, 2023
+WRWV622 - JOHNSON, DARIUS - 612-516-1929 - 1dariusjohnson1@gmail.com - Feb 1, 2024
+WRUH615 - LOVE, LEROY - 612-267-2010 - togeika@gmail.com - Feb 5, 2024
+WRDE428 - LIEBERMAN, CODY M - 312-636-9280 - cml@blklake.com - Feb 22, 2024.
+WSAW511 - RICE, MATTHEW R - 612-414-0661 - matt.rice50@gmail.com - Feb 22, 2024.
+WREA632 - RAY, MICHAEL C - 651-226-2229 - michaelray999@yahoo.com - Feb 27, 2024.
+WREL429 - BENTON, MERRITT A - 603-381-6831 - merritt@merrittbenton.com - March 8, 2024.
+WSBR774 - RENFROE, RICHARD B - 651-398-5160 - rbrenfroe@comcast.net - March 17, 2024.
 `````
