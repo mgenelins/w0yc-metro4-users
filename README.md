@@ -139,4 +139,5 @@ WSAW511 - RICE, MATTHEW R - 612-414-0661 - matt.rice50@gmail.com - Feb 22, 2024.
 WREA632 - RAY, MICHAEL C - 651-226-2229 - michaelray999@yahoo.com - Feb 27, 2024.
 WREL429 - BENTON, MERRITT A - 603-381-6831 - merritt@merrittbenton.com - March 8, 2024.
 WSBR774 - RENFROE, RICHARD B - 651-398-5160 - rbrenfroe@comcast.net - March 17, 2024.
+WRVS496 - HOFFMAN, ANDREW - 651-890-6118 - HoffmanEst.1989@gmail.com - March 27, 2024.
 `````
