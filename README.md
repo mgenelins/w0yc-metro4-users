@@ -142,5 +142,6 @@ WSBR774 - RENFROE, RICHARD B - 651-398-5160 - rbrenfroe@comcast.net - March 17, 
 WRVS496 - HOFFMAN, ANDREW - 651-890-6118 - HoffmanEst.1989@gmail.com - March 27, 2024.
 WSCS690 - BOWES, BRIAN K - 651-307-2261 - brianbowes@rocketmail.com - July 7, 2024.
 WRZS960 - RAAF, JOSEPH J - 651-500-1980 - stcroix55@gmail.com - July 7, 2024.
-WSDD613 - PULLEY, GREGORY P - 
+WSDD613 - PULLEY, GREGORY P - 763-218-8951 - gregpulley@proton.me - July 7, 2024.
+WSDC500 - DAVIS MR, CHARLES P - 612-875-9969 - chuckcpdavis@gmail.com - July 7, 2024.
 `````
