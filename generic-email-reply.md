@@ -9,13 +9,12 @@ Metro 4 is sponsored by The Gopher Amateur Radio Club at The University of Minne
 
 Metro 4 is located on the St. Paul University of Minnesota Campus at Gortner Ave and Buford Ave on one of our tall campus buildings. It shares the site with several other radio systems.
 
-In April of 2023, Todd Dugdale - KAF6430 - donated a second GMRS repetar on 462.675 141.3hz. It's up on the University of Minnesota's East Bank Campus at The Malcolm Moos Medical Sciences Building, or 'Moos Tower' for short. It's in a beta-testing phase, as the CW Ider is set to beacon mode. You're welcome to jump on and use it as well; Todd frequently monitors it for new users in the Minneapolis, MN area.
+In July of 2024, Todd Dugdale - KAF6430 - donated a second GMRS repetar on 462.575 156.7hz. It's up on the University of Minnesota's East Bank Campus at The Malcolm Moos Medical Sciences Building, or 'Moos Tower' for short. You can request access via the mygrms.com website as well. It seems to be performing well.
 
 If you are an amateur radio operator, we have a number of amateur repeaters on the same site. These include:
-443.000 - N0YNT/R - 118.8hz
+442.425 - W0YC/R - 114.8hz, P25.
 462.650 - WQCQ790 - "Metro 4" 141.3hz
 223.900 - KE0NA/R - "The Aggrandizer" - 100.0hz
-147.150 - W0YC/R backup to the Minneapolis system - 114.8hz
 444.425 - W0YC/R backup to the Minneapolis system - 100.0hz
 
 I am looking forward to meeting you on the air and granting you permission on the air to use Metro 4!
