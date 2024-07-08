@@ -145,3 +145,16 @@ WRZS960 - RAAF, JOSEPH J - 651-500-1980 - stcroix55@gmail.com - July 7, 2024.
 WSDD613 - PULLEY, GREGORY P - 763-218-8951 - gregpulley@proton.me - July 7, 2024.
 WSDC500 - DAVIS MR, CHARLES P - 612-875-9969 - chuckcpdavis@gmail.com - July 7, 2024.
 `````
+
+
+# w0yc-metro16-users
+A repo to keep track of authorized users to Metro 16 - 462.575 in Minneapolis, Minnesota, USA
+
+Authorized (verified on the air) users for Metro 16:
+`````
+`````
+
+People I have received email from, but not on the air permission granted yet:
+`````
+WRYC346 - BELL, RODNEY - 651-343-7558 - rodbell55@gmail.com - July 8, 2024.
+`````
