@@ -140,4 +140,7 @@ WREA632 - RAY, MICHAEL C - 651-226-2229 - michaelray999@yahoo.com - Feb 27, 2024
 WREL429 - BENTON, MERRITT A - 603-381-6831 - merritt@merrittbenton.com - March 8, 2024.
 WSBR774 - RENFROE, RICHARD B - 651-398-5160 - rbrenfroe@comcast.net - March 17, 2024.
 WRVS496 - HOFFMAN, ANDREW - 651-890-6118 - HoffmanEst.1989@gmail.com - March 27, 2024.
+WSCS690 - BOWES, BRIAN K - 651-307-2261 - brianbowes@rocketmail.com - July 7, 2024.
+WRZS960 - RAAF, JOSEPH J - 651-500-1980 - stcroix55@gmail.com - July 7, 2024.
+WSDD613 - PULLEY, GREGORY P - 
 `````
