@@ -152,9 +152,11 @@ A repo to keep track of authorized users to Metro 16 - 462.575 in Minneapolis, M
 
 Authorized (verified on the air) users for Metro 16:
 `````
+WRYC346 - BELL, RODNEY - 651-343-7558 - rodbell55@gmail.com - July 8, 2024.
+WRKM542 - Mark - Columbia Heights - July 9th, 2024. Might have wrong callsign.
 `````
 
 People I have received email from, but not on the air permission granted yet:
 `````
-WRYC346 - BELL, RODNEY - 651-343-7558 - rodbell55@gmail.com - July 8, 2024.
+
 `````
